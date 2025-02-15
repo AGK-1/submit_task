@@ -1,0 +1,42 @@
+/* Основной фон */
+.swagger-ui {
+    background-color: rgb(78, 76, 76);
+  }
+  
+  /* Цвет текста */
+  .swagger-ui .info h2, .swagger-ui .opblock-summary-path, .swagger-ui .opblock .opblock-summary-description {
+    color: white;
+  }
+  
+  /* Цвет фона блоков */
+  .swagger-ui .opblock {
+    background-color: #1e1e1e;
+    border-color: #333;
+  }
+  
+  /* Цвет текста в блоках */
+  .swagger-ui .opblock .opblock-summary {
+    color: white;
+  }
+  
+  /* Цвет фона панелей */
+  .swagger-ui .opblock .opblock-section {
+    background-color: #2d2d2d;
+  }
+  
+  /* Цвет текста в панелях */
+  .swagger-ui .opblock .opblock-section .opblock-section-header {
+    color: white;
+  }
+  
+  /* Цвет фона кнопок */
+  .swagger-ui .btn {
+    background-color: #333;
+    color: white;
+  }
+  
+  /* Цвет фона заголовков */
+  .swagger-ui .opblock-tag {
+    background-color: #1e1e1e;
+    color: white;
+  }
