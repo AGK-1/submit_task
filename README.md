@@ -12,6 +12,7 @@ frontend link
 http://localhost:3000/nft
 
 backend repo
+https://github.com/AGK-1/submit_task/tree/master
 
 video
 https://streamable.com/7fny90
